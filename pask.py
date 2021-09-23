@@ -1,1 +1,1 @@
-print("dd")
+print(hash('abcde'))

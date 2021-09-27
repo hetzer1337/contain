@@ -1,9 +1,6 @@
-
-product = input("vvedite produkt")
-if product == 'milk':
-        print(3)
-elif product == 'butter':
-        print(5)
-elif product == 'bread':
-        print(7)
-print(product)
+input("vvss")
+shop_items = {
+        'milk':3,
+        "butter":5,
+        "bread":7}
+print(shop_items.get, -1)
